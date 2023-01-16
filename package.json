@@ -1,6 +1,6 @@
 {
     "name": "omikuji-fortune-teller",
-    "version": "3.1.0",
+    "version": "3.1.1",
     "displayName": "Omikuji Fortune Telling App",
     "cordova": {
         "plugins": {
