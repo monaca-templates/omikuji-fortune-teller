@@ -1,6 +1,6 @@
 {
   "name": "omikuji-fortune-teller",
-  "version": "4.1.5",
+  "version": "4.1.6",
   "displayName": "Omikuji Fortune Telling App",
   "engines": {
     "node": ">=20.17"
